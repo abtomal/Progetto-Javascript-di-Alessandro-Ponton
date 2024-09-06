@@ -38,9 +38,9 @@ No setup required.
 
 ## Meta
 
-Alessandro Ponton – [@itsabtomal](https://x.com/itsabtomal) – alessandroponton@hotmail.com - abtomal.github.io
+Alessandro Ponton – [@itsabtomal](https://x.com/itsabtomal) – alessandroponton@hotmail.com - [https://abtomal.github.io](https://abtomal.github.io)
 
-[https://abtomal.github.io](https://abtomal.github.io)
+
 
 "# jscounter" 
 "# jscounter" 
