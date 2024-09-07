@@ -38,7 +38,7 @@ decrementButton.addEventListener('click', function() {
     updateCounter(counterValue);
 });
 
-// pulsanti + counter
+// button & counter
 counterContainer.appendChild(decrementButton);
 counterContainer.appendChild(counterValueElement);
 counterContainer.appendChild(incrementButton);
