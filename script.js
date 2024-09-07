@@ -2,10 +2,11 @@
 // counter 0
 let counterValue = 0;
 
+// cambio colore
 function updateCounter(value) {
     counterValueElement.textContent = value;
 
-    // cambio colore
+    
     if (value < 0) {
         counterValueElement.style.color = '#ffee00';
     } else if (value > 0) {
